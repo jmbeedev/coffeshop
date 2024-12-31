@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Kopi Arabika",
+    "price": "Rp 50.000",
+    "description": "Kopi Arabika dengan cita rasa asam yang khas.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Kopi Robusta",
+    "price": "Rp 40.000",
+    "description": "Kopi Robusta dengan rasa kuat dan pahit.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Kopi Luwak",
+    "price": "Rp 100.000",
+    "description": "Kopi Luwak premium dengan aroma yang khas.",
+    "image": "https://via.placeholder.com/150"
+  }
+]
